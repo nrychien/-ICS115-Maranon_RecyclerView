@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Maranon_RecyclerView</string>
+    <string-array name="codename">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Ginger</item>
+        <item>Honeycomb</item>
+        <item>Icecream Sandwich</item>
+        <item>Jellybean</item>
+        <item>Kitkat</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+        <item>Nougat</item>
+        <item>Oreo</item>
+    </string-array>
+    <string-array name="version">
+    <item>1.5</item>
+    <item>1.6</item>
+    <item>2.0 - 2.1</item>
+    <item>2.2 - 2.2.3</item>
+    <item>2.3 - 2.3.7</item>
+    <item>3.0 - 3.2.6</item>
+    <item>4.0 - 4.0.4</item>
+    <item>4.1 - 4.4.4</item>
+    <item>5.1 - 5.1.1</item>
+    <item>6.0 - 6.0.1</item>
+    <item>7.0 - 7.1.2</item>
+    <item>8.0</item>
+</string-array>
+    <string-array name="api">
+        <item>111</item>
+        <item>111</item>
+        <item>111</item>
+        <item>111</item>
+        <item>111</item>
+        <item>111</item>
+        <item>111</item>
+        <item>111</item>
+        <item>111</item>
+        <item>111</item>
+        <item>111</item>
+        <item>8.0</item>
+    </string-array>
+
+    <string-array name="Date">
+        <item>November 10, 1998</item>
+        <item>November 10, 1998</item>
+        <item>November 10, 1998</item>
+        <item>November 10, 1998</item>
+        <item>November 10, 1998</item>
+        <item>November 10, 1998</item>
+        <item>November 10, 1998</item>
+        <item>November 10, 1998</item>
+        <item>November 10, 1998</item>
+        <item>November 10, 1998</item>
+        <item>November 10, 1998</item>
+        <item>November 10, 1998</item>
+    </string-array>
+</resources>
